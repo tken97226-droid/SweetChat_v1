@@ -1,4 +1,4 @@
-# Berrychat - AI Companion (PWA & GitHub Pages Ready)
+# sweetchat - AI Companion (PWA & GitHub Pages Ready)
 
 An intimate AI companion chat & roleplay web app featuring Telegram-style messaging, bilingual Myanmar (Burmese) & English localization, chapter management, multiple Gemini AI model support, KBZPay donation support, and offline-ready Progressive Web App (PWA) installation.
 
